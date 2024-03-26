@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -29,11 +29,11 @@ body {
     color: white;
 }
 
-.padaria-imagem{
+.escola-imagem{
     width: 25%;
 }
 
-.padaria{
+#escola{
     background-image: linear-gradient(#424E61,#16CFF8);
     color:white;
     display: flex;
@@ -42,12 +42,12 @@ body {
     padding: 24px 0;
 }
 
-.padaria-div-conteudo{
+.escola-div-conteudo{
     width: 35%;
 }
 
 
-.paaria-titulo{
+.escola-titulo{
     padding: 24px 0;
 }
 
